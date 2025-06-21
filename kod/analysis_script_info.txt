@@ -1,0 +1,5 @@
+Kodlar Google Colab ortamında çalıştırılmıştır.
+Notebook dosyası: sosyalmedyaanaliz.ipynb
+Kullanılan kütüphaneler: pandas, matplotlib, seaborn, json, datetime
+Veriler: Facebook, Instagram ve Telegram
+Yapay zeka analizleri: mesaj frekansları, saatlik yoğunluk, örüntü tespiti
